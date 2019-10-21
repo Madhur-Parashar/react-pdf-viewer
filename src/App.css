@@ -5,7 +5,12 @@
 .App-logo {
   height: 40vmin;
 }
-
+.b-reat-pdf {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
