@@ -1,0 +1,21 @@
+.b-header-container {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  border-bottom: 1px solid #e6e6e6;
+  background-color: #f0f5fa;
+}
+.b-header-logo {
+  margin-top: 15px;
+  margin-left: 30px;
+  font-weight: 600;
+}
+.b-header-heading {
+  margin-top: 15px;
+  font-weight: 600;
+}
+.b-header-about {
+  margin-top: 15px;
+  margin-right: 30px;
+  font-weight: 600;
+}

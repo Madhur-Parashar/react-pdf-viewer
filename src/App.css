@@ -25,3 +25,10 @@
 .App-link {
   color: #09d3ac;
 }
+.react-pdf__Page__canvas {
+  height: 64vh !important;
+  width: unset !important;
+}
+.react-pdf__Page {
+  height: 64vh !important;
+}
